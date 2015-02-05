@@ -1,10 +1,10 @@
-# BattleGadgets
+# BattleArmory
 
 ### About
 
-BattleGadgets is a bukkit plugin which enables using the gadgets known from [**Paintball War Edition**](https://github.com/PaintballWarEdition/Paintball-Wiki) together with the plugin [**BattleArena**](http://dev.bukkit.org/bukkit-plugins/battlearena2/).
+BattleArmory is a bukkit plugin which enables using the weapons and gadgets known from [**Paintball War Edition**](https://github.com/PaintballWarEdition/Paintball-Wiki) together with the plugin [**BattleArena**](http://dev.bukkit.org/bukkit-plugins/battlearena2/).
 
-All gadgets offer lots of options for customizations and combination of gadget types and features. This allows simple creation of unique variations and new gadgets.
+All weapons offer lots of possibilities for customizations and combination to easily create new and unique variations and weapons.
 
 ### Download
 
@@ -16,4 +16,4 @@ If you are having issues, suggestions or simply want to ask some question create
 
 ### Documentation
 
-For documentation on how to **configure and create new gadgets** take a look at the dedicated [**Gadgets-Wiki**](https://github.com/PaintballWarEdition/Gadgets-Wiki/wiki).<br>
+For documentation on how to **configure and create new weapons** take a look at the dedicated [**Armory-Wiki**](https://github.com/PaintballWarEdition/Armory-Wiki/wiki).<br>
